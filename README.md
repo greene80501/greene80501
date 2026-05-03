@@ -16,7 +16,7 @@ Denver, Colorado | AI systems builder | Founder @ [GrayArea Labs](https://github
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> I build applied AI systems, agentic coding tools, and software that turns machine learning research into usable products.
+> I build cool, useful AI software, mostly the kind I actually use myself or can convince someone else they need.
 
 [grayarealabs.com](https://www.grayarealabs.com) | [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
 
