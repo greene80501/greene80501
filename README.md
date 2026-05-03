@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wyatt
+# Hi, I'm Wyatt
 
 📍 Denver, Colorado | AI systems builder | Founder @ [GrayArea Labs](https://github.com/GrayArea-Labs) | IBM Co-op Team Lead of AI Development
 
