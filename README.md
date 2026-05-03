@@ -18,7 +18,7 @@ Denver, Colorado | AI systems builder | Founder @ [GrayArea Labs](https://github
 
 > I build cool, useful AI software, mostly the kind I actually use myself or can convince someone else they need.
 
-[grayarealabs.com](https://www.grayarealabs.com) | [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
+[GrayArea Labs](https://www.grayarealabs.com) | [LinkedIn](https://www.linkedin.com/in/wyatt-greene/) | [My Email](mailto:greene.wyatt30@gmail.com) | [My Portfolio](wyatt-greene.com)
 
 ## About
 
